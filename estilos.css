@@ -1,0 +1,46 @@
+nav {
+    background-color: rgb(21, 20, 20);
+}
+
+nav a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 14px;
+}
+
+nav li {
+    display: inline-block;
+    width: 8%;
+    padding: 10px;
+    text-align: center;
+    color: rgb(161, 161, 161);
+}
+
+nav li:hover {
+    background-color: black;
+    color: white;
+}
+
+#fondo {
+    background-color: lightgray;
+}
+
+#blue {
+    background-color: rgb(88, 88, 249);
+    color: white;
+    padding: 5px;
+}
+
+#form {
+    text-align: right;
+    clear: left;
+}
+
+#ok {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+#select {
+    padding: 5px;
+}
